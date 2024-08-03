@@ -1,6 +1,6 @@
 Official implementation of "[Accurate and Nuanced Open-QA Evaluation Through Textual Entailment](https://arxiv.org/abs/2405.16702)"
 
-[**[Paper]**](https://arxiv.org/abs/2405.16702) [**[Video]**](https://vimeo.com/994611659)
+[**[Paper]**](https://arxiv.org/abs/2405.16702) [**[Video]**](https://vimeo.com/994611659) [**[Poster]**](./poster.pdf)
 
 If you find this code useful in your research, please consider citing:
 ```bibtex
